@@ -34,4 +34,14 @@ External Research (for COLA standards by location)
 
 
 # 📈 Key Visuals (Screenshots)
-[HR_Pay_Equality_Project/plots/HR_Project_Pics.pdf]
+
+***Attrition Overview***
+ * 📊 Overall attrition rate with department and job role breakdowns
+
+ * 📊 Filters for gender, education field, and business travel
+
+Satisfaction Analysis
+📊 Visualizes relationships between job satisfaction, environment satisfaction, and attrition likelihood
+
+Demographic Insights
+📊 Age distribution, education level, marital status, and income comparisons
