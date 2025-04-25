@@ -34,3 +34,4 @@ External Research (for COLA standards by location)
 
 
 # 📈 Key Visuals (Screenshots)
+[HR_Pay_Equality_Project/plots/HR_Project_Pics.pdf]
