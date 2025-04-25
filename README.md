@@ -13,20 +13,17 @@ The dashboard visualizes salary distribution, pay equality across demographics, 
   * What is the overall salary distribution within the organization?
   * Are there significant variations or outliers in salaries?
 
-⚖️ Pay Equality
-Are there gender-based or demographic disparities in salaries?
+***⚖️ Pay Equality***
+  * Are there gender-based or demographic disparities in salaries?
+  * Are there differences based on age or tenure?
 
-Are there differences based on age or tenure?
+***🧑‍💼 Compensation by Position***
+  * What are the average and median salaries by position?
+  * Are there positions with notably higher or lower salaries compared to industry standards?
 
-🧑‍💼 Compensation by Position
-What are the average and median salaries by position?
-
-Are there positions with notably higher or lower salaries compared to industry standards?
-
-🌎 Cost of Living Adjustment (COLA)
-Is there a COLA policy in place for employees in different locations?
-
-How is COLA determined and applied?
+***🌎 Cost of Living Adjustment (COLA)***
+ * Is there a COLA policy in place for employees in different locations?
+ * How is COLA determined and applied?
 
 # 🛠️ Tools Used
 Power BI Desktop (Data modeling, visualizations, DAX calculations)
