@@ -11,7 +11,7 @@ The dashboard visualizes salary distribution, pay equality across demographics, 
 
 📊 Salary Distribution
 
-    * What is the overall salary distribution within the organization?
+   * What is the overall salary distribution within the organization?
     
         ***Are there significant variations or outliers in salaries?***
 
