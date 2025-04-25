@@ -8,8 +8,11 @@ The dashboard visualizes salary distribution, pay equality across demographics, 
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue?logo=powerbi)](https://app.powerbi.com/reportEmbed?reportId=ba841839-82cf-4c5d-a4ab-777b8b3013c5&autoAuth=true&ctid=c207a2ac-fbb3-47dd-8955-d284c02dad59)
 
 # 📝 Key Business Objectives
+
 📊 Salary Distribution
+
     * What is the overall salary distribution within the organization?
+    
         ***Are there significant variations or outliers in salaries?***
 
 ⚖️ Pay Equality
