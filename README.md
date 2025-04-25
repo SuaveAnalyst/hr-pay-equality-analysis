@@ -9,9 +9,8 @@ The dashboard visualizes salary distribution, pay equality across demographics, 
 
 # 📝 Key Business Objectives
 📊 Salary Distribution
-What is the overall salary distribution within the organization?
-
-Are there significant variations or outliers in salaries?
+    * What is the overall salary distribution within the organization?
+        ***Are there significant variations or outliers in salaries?***
 
 ⚖️ Pay Equality
 Are there gender-based or demographic disparities in salaries?
@@ -28,7 +27,7 @@ Is there a COLA policy in place for employees in different locations?
 
 How is COLA determined and applied?
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 Power BI Desktop (Data modeling, visualizations, DAX calculations)
 
 Power Query (Data transformation and cleaning)
