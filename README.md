@@ -31,3 +31,6 @@ Power BI Desktop (Data modeling, visualizations, DAX calculations)
 Power Query (Data transformation and cleaning)
 
 External Research (for COLA standards by location)
+
+
+# 📈 Key Visuals (Screenshots)
