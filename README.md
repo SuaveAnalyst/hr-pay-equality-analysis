@@ -45,3 +45,5 @@ External Research (for COLA standards by location)
 
 ***Demographic Insights***
 * Age distribution, education level, marital status, and income comparisons
+
+📄 [View Key Dashboard Screenshots (PDF)](plots/HR_Project_Pics.pdf)
