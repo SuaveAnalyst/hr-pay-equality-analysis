@@ -47,3 +47,11 @@ External Research (for COLA standards by location)
 * Age distribution, education level, marital status, and income comparisons
 
 📄 [View Key Dashboard Screenshots (PDF)](HR_Pay_Equality_Project/plots/HR_Project_Pics.pdf)
+
+# 🗝️ Insights Summary
+
+* Some departments showed significant salary outliers.
+
+* A small but notable gender pay gap was identified among mid-level employees.
+
+* COLA adjustments were inconsistent across regions, suggesting opportunities for standardization.
